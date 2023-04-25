@@ -18,11 +18,18 @@
 	"popAppPackage": "cp",
 	"popAppIsActive": false,
 
-	"BUTTON_NAME_1": "Hi TKmaxx",
-	"BUTTON_NAME_2": "Start Shopping",
+	"BUTTON_NAME_1": "button 1",
+	"BUTTON_NAME_2": "button 2",
+	
+	"btn_wv_1": "web 1",
+	"btn_wv_2": "web 2",
+	"btn_wv_3": "web 3",
+	"btn_wv_4": "web 4",
 
 	"URL" : "https://www.hespress.com/",
 	"URL2" : "https://google.com/",
+	"URL3" : "https://www.facebook.com/",
+	"URL4" : "https://instagram.com/",
 
 	"isAdsActivated1":true,
 	"isAdsActivated2":true
